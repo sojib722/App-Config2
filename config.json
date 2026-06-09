@@ -1,1 +1,142 @@
 
+{
+  "com.socialnmobile.dictapps.notepad.color.note": {
+    "version": "4.8.2",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+
+    "title_en": "NEW UPDATE",
+    "title_emoji": "🔥",
+    "changelog_en": "• Smart version check added\n• Optional update feature\n• Speed improved",
+    "btn_text_en": "⬇ Download Now",
+    "skip_text_en": "✖ Remind Me Later",
+    "badge_en": "★ ★ ★",
+    "whats_new_en": "WHAT'S NEW",
+    "hint_en": "Auto-dismisses when updated",
+
+    "title_bn": "নতুন আপডেট",
+    "title_emoji_bn": "🔥",
+    "changelog_bn": "• স্মার্ট ভার্সন চেকিং যুক্ত হয়েছে\n• অপশনাল আপডেট ফিচার\n• Speed বাড়ানো হয়েছে",
+    "btn_text_bn": "⬇ এখনই ডাউনলোড করুন",
+    "skip_text_bn": "✖ পরে করব",
+    "badge_bn": "★ ★ ★",
+    "whats_new_bn": "নতুন কী আছে",
+    "hint_bn": "আপডেটের পরে বন্ধ হবে",
+
+    "grad_start": "#232526",
+    "grad_mid": "#414345",
+    "grad_end": "#000000",
+    "btn_grad_start": "#DA22FF",
+    "btn_grad_end": "#9733EE",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FF6BFF",
+    "card_color": "#121212",
+    "log_box_color": "#1E1E2E",
+    "log_color": "#F3E8FF",
+    "label_color": "#DA22FF",
+    "accent_color": "#9733EE",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66DA22FF"
+  },
+
+  "com.lemon.lvoverseas": {
+    "version": "17.4.0",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+
+    "title_en": "CapCut UPDATE",
+    "title_emoji": "🚀",
+    "changelog_en": "• New UI Added\n• Faster Performance\n• Bug Fixes",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ PREMIUM ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Restart app after update",
+
+    "title_bn": "ক্যাপকাট আপডেট",
+    "title_emoji_bn": "🚀",
+    "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
+    "btn_text_bn": "⬇ আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ PREMIUM ★",
+    "whats_new_bn": "নতুন ফিচার",
+    "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
+
+    "grad_start": "#0F0C29",
+    "grad_mid": "#302B63",
+    "grad_end": "#000000",
+    "btn_grad_start": "#C471ED",
+    "btn_grad_end": "#6A11CB",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FFD700",
+    "card_color": "#12121A",
+    "log_box_color": "#1B1B30",
+    "log_color": "#F0EFFF",
+    "label_color": "#C084FC",
+    "accent_color": "#A855F7",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66C471ED"
+      },
+      
+  "com.iudesk.android.photo.editor": {
+    "version": "2.0.0",
+    "is_force": false,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+"title_en": "PREMIUM UPDATE",
+    "title_emoji": "🚀",
+    "changelog_en": "• New UI Added\n• Faster Performance\n• Bug Fixes",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ PREMIUM ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Restart app after update",
+ "title_bn": "প্রিমিয়াম আপডেট",
+    "title_emoji_bn": "🚀",
+    "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
+    "btn_text_bn": "⬇ আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ PREMIUM ★",
+    "whats_new_bn": "নতুন ফিচার",
+    "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
+"grad_start": "#0F0C29",
+    "grad_mid": "#302B63",
+    "grad_end": "#000000",
+    "btn_grad_start": "#C471ED",
+    "btn_grad_end": "#6A11CB",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FFD700",
+    "card_color": "#12121A",
+    "log_box_color": "#1B1B30",
+    "log_color": "#F0EFFF",
+    "label_color": "#C084FC",
+    "accent_color": "#A855F7",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66C471ED"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n
