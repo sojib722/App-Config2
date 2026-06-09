@@ -1,8 +1,8 @@
 {
   "com.system.s": {
     "enabled": true,
-    "use_time": true,
-    "scan_time_sec": 3,
+    "use_time": false,
+    "scan_time_sec": 60,
     "keywords": [
       "New Update",
       "t.me",
