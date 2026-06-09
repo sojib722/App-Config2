@@ -1,0 +1,35 @@
+{
+  "com.system.s": {
+    "patch_enabled": true,
+    "targets": [
+      {
+        "target_text": "AndroForever.com",
+        "replace_text_enabled": true,
+        "new_text": "APKProHub👻",
+     
+        "hide_view": false
+      },
+      {
+        "target_text": "18.1.0",
+        "replace_text_enabled": true,
+        "new_text": "18.8.0",
+        "hide_view": false
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n
