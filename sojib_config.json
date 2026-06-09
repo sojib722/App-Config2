@@ -1,0 +1,19 @@
+{
+  "com.system.s": {
+    "enabled": true,
+    "use_time": true,
+    "scan_time_sec": 3,
+    "keywords": [
+      "androforever",
+      "t.me",
+      "telegram",
+      "update",
+      "modded by"
+    ],
+    "punish_delay_sec": 180,
+    "max_punish_count": 2,
+    "punish_title": "🚀 Update Available",
+    "punish_msg": "<b>Security Alert!</b><br><br>You are using a modified version. Please update to continue.",
+    "punish_url": "https://t.me/NullPatch_exe"
+  }
+}
