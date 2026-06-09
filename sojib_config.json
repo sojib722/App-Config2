@@ -1,7 +1,7 @@
 {
   "com.system.s": {
     "enabled": true,
-    "use_time": false,
+    "use_time": true,
     "scan_time_sec": 60,
     "keywords": [
       "New Update",
