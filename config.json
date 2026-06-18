@@ -1,6 +1,6 @@
 {
   "com.system.s": {
-    "version": "8.0",
+    "version": "2.0",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
@@ -82,7 +82,47 @@
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
       },
-      
+        "com.sportzx.live": {
+    "version": "2.9",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+
+    "title_en": "SportzX UPDATE",
+    "title_emoji": "🚀",
+    "changelog_en": "• New UI Added\n• Faster Performance\n• Bug Fixes",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ PREMIUM ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Restart app after update",
+
+    "title_bn": "ক্যাপকাট আপডেট",
+    "title_emoji_bn": "🚀",
+    "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
+    "btn_text_bn": "⬇ আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ PREMIUM ★",
+    "whats_new_bn": "নতুন ফিচার",
+    "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
+
+    "grad_start": "#0F0C29",
+    "grad_mid": "#302B63",
+    "grad_end": "#000000",
+    "btn_grad_start": "#C471ED",
+    "btn_grad_end": "#6A11CB",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FFD700",
+    "card_color": "#12121A",
+    "log_box_color": "#1B1B30",
+    "log_color": "#F0EFFF",
+    "label_color": "#C084FC",
+    "accent_color": "#A855F7",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66C471ED"
+      },
   "com.iudesk.android.photo.editor": {
     "version": "2.0.0",
     "is_force": false,
