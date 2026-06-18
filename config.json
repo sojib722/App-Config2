@@ -81,9 +81,10 @@
     "skip_color": "#9CA3AF",
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
+    
       },
         "com.sportzx.live": {
-    "version": "2.9",
+    "version": "2.5",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
@@ -97,12 +98,12 @@
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Restart app after update",
 
-    "title_bn": "ক্যাপকাট আপডেট",
+    "title_bn": "স্পোর্টজএক্স আপডেট",
     "title_emoji_bn": "🚀",
     "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
     "btn_text_bn": "⬇ আপডেট করুন",
     "skip_text_bn": "✖ পরে",
-    "badge_bn": "★ PREMIUM ★",
+    "badge_bn": "★ প্রিমিয়াম ★",
     "whats_new_bn": "নতুন ফিচার",
     "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
 
