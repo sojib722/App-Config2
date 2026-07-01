@@ -42,28 +42,28 @@
   },
 
   "com.lemon.lvoverseas": {
-    "version": "18.1.0",
-    "is_force": true,
+    "version": "18.4.0",
+    "is_force": false,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
 
-    "title_en": "CapCut UPDATE",
-    "title_emoji": "🚀",
-    "changelog_en": "• New UI Added\n• Faster Performance\n• Bug Fixes",
+    "title_en": "CapCut ULTRA UPDATE",
+    "title_emoji": "⚡",
+    "changelog_en": "• CapCut v18.4.0 Ultra Premium Mod\n• Fixed Export & Pro Feature Glitches\n• Enhanced Rendering Speed\n• High-Bitrate Crash Fixed",
     "btn_text_en": "⬇ Update Now",
     "skip_text_en": "✖ Later",
-    "badge_en": "★ PREMIUM ★",
+    "badge_en": "★ ULTRA MOD ★",
     "whats_new_en": "LATEST FEATURES",
-    "hint_en": "Restart app after update",
+    "hint_en": "Enjoy the ultimate editing experience",
 
-    "title_bn": "ক্যাপকাট আপডেট",
-    "title_emoji_bn": "🚀",
-    "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
-    "btn_text_bn": "⬇ আপডেট করুন",
+    "title_bn": "ক্যাপকাট আল্ট্রা আপডেট",
+    "title_emoji_bn": "⚡",
+    "changelog_bn": "• ক্যাপকাট v18.4.0 আল্ট্রা প্রিমিয়াম মোড\n• এক্সপোর্ট ও প্রো ফিচার সমস্যা সমাধান\n• রেন্ডারিং স্পিড চরম বৃদ্ধি করা হয়েছে\n• হাই-বিটরেট ক্র্যাশ ফিক্সড",
+    "btn_text_bn": "⬇ এখনই আপডেট করুন",
     "skip_text_bn": "✖ পরে",
-    "badge_bn": "★ PREMIUM ★",
-    "whats_new_bn": "নতুন ফিচার",
-    "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
+    "badge_bn": "★ ULTRA MOD ★",
+    "whats_new_bn": "নতুন কী থাকছে",
+    "hint_bn": "সেরা এডিটিং অভিজ্ঞতা উপভোগ করুন",
 
     "grad_start": "#0F0C29",
     "grad_mid": "#302B63",
@@ -71,7 +71,7 @@
     "btn_grad_start": "#C471ED",
     "btn_grad_end": "#6A11CB",
     "title_color": "#FFFFFF",
-    "badge_color": "#FFD700",
+    "badge_color": "#00FFFF",
     "card_color": "#12121A",
     "log_box_color": "#1B1B30",
     "log_color": "#F0EFFF",
@@ -81,9 +81,9 @@
     "skip_color": "#9CA3AF",
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
-    
-      },
-        "com.sportzx.live": {
+  },
+
+  "com.sportzx.live": {
     "version": "2.5",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
@@ -123,13 +123,14 @@
     "skip_color": "#9CA3AF",
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
-      },
+  },
+
   "com.iudesk.android.photo.editor": {
     "version": "2.0.0",
     "is_force": false,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-"title_en": "PREMIUM UPDATE",
+    "title_en": "PREMIUM UPDATE",
     "title_emoji": "🚀",
     "changelog_en": "• New UI Added\n• Faster Performance\n• Bug Fixes",
     "btn_text_en": "⬇ Update Now",
@@ -137,7 +138,7 @@
     "badge_en": "★ PREMIUM ★",
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Restart app after update",
- "title_bn": "প্রিমিয়াম আপডেট",
+    "title_bn": "প্রিমিয়াম আপডেট",
     "title_emoji_bn": "🚀",
     "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
     "btn_text_bn": "⬇ আপডেট করুন",
@@ -145,7 +146,7 @@
     "badge_bn": "★ PREMIUM ★",
     "whats_new_bn": "নতুন ফিচার",
     "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
-"grad_start": "#0F0C29",
+    "grad_start": "#0F0C29",
     "grad_mid": "#302B63",
     "grad_end": "#000000",
     "btn_grad_start": "#C471ED",
@@ -163,20 +164,3 @@
     "shadow_color": "#66C471ED"
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-n
