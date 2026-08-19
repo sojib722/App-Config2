@@ -83,6 +83,48 @@
     "shadow_color": "#66C471ED"
   },
 
+  "com.biomes.vanced": {
+    "version": "5.6.80.397",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+
+    "title_en": "YouTube Lite UPDATE",
+    "title_emoji": "▶️",
+    "changelog_en": "• YouTube Lite v5.6.80 Premium Features\n• Lightweight & Super Fast Performance\n• Background Play & MicroG Fixed\n• Completely Ad-Free Experience",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ LITE MOD ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Enjoy smooth ad-free video streaming",
+
+    "title_bn": "ইউটিউব লাইট আপডেট",
+    "title_emoji_bn": "▶️",
+    "changelog_bn": "• ইউটিউব লাইট v5.6.80 প্রিমিয়াম ফিচারস\n• হালকা সাইজ ও সুপার ফাস্ট পারফর্ম্যান্স\n• ব্যাকগ্রাউন্ড প্লে ও সাইন-ইন সমস্যা সমাধান\n• সম্পূর্ণ বিজ্ঞাপন মুক্ত অভিজ্ঞতা",
+    "btn_text_bn": "⬇ এখনই আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ লাইট মোড ★",
+    "whats_new_bn": "নতুন কী থাকছে",
+    "hint_bn": "বিজ্ঞাপন ছাড়া স্মুথ ভিডিও উপভোগ করুন",
+
+    "grad_start": "#200000",
+    "grad_mid": "#400000",
+    "grad_end": "#000000",
+    "btn_grad_start": "#FF0000",
+    "btn_grad_end": "#B30000",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FF4D4D",
+    "card_color": "#140505",
+    "log_box_color": "#260A0A",
+    "log_color": "#FFE6E6",
+    "label_color": "#FF3333",
+    "accent_color": "#FF0000",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66FF0000"
+  }
+
   "com.sportzx.live": {
     "version": "2.5",
     "is_force": true,
