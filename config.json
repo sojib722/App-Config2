@@ -162,5 +162,47 @@
     "skip_color": "#9CA3AF",
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
+  },
+
+  "com.community.oneroom": {
+    "version": "4.0.01.0807.03",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+
+    "title_en": "MovieBox Pro UPDATE",
+    "title_emoji": "🎬",
+    "changelog_en": "• MovieBox v4.0.01 VIP Unlocked\n• Fast Streaming & Downloading Fix\n• Subtitle Sync Issue Fixed\n• Completely Ad-Free Experience",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ VIP UNLOCKED ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Enjoy unlimited movies & shows",
+
+    "title_bn": "মুভি বক্স প্রো আপডেট",
+    "title_emoji_bn": "🎬",
+    "changelog_bn": "• মুভি বক্স v4.0.01 ভিআইপি ফিচার আনলকড\n• ফাস্ট স্ট্রিম ও ডাউনলোড প্রবলেম ফিক্সড\n• সাবটাইটেল সিঙ্ক সুবিধা যুক্ত\n• সম্পূর্ণ বিজ্ঞাপন মুক্ত অভিজ্ঞতা",
+    "btn_text_bn": "⬇ এখনই আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ VIP UNLOCKED ★",
+    "whats_new_bn": "নতুন কী থাকছে",
+    "hint_bn": "আনলিমিটেড মুভি ও শো উপভোগ করুন",
+
+    "grad_start": "#1A0500",
+    "grad_mid": "#330A00",
+    "grad_end": "#000000",
+    "btn_grad_start": "#FF4B2B",
+    "btn_grad_end": "#FF416C",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FFD700",
+    "card_color": "#140A07",
+    "log_box_color": "#24100B",
+    "log_color": "#FFEBE6",
+    "label_color": "#FF6B52",
+    "accent_color": "#FF416C",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66FF416C"
   }
 }
