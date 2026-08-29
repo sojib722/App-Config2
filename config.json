@@ -251,7 +251,7 @@
 
   "com.community.oneroom": {
     "version": "4.0.01.0807.03",
-    "is_force": true,
+    "is_force": false,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
 
