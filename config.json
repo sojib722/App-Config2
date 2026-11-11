@@ -4,7 +4,6 @@
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-
     "title_en": "NEW UPDATE",
     "title_emoji": "🔥",
     "changelog_en": "• Smart version check added\n• Optional update feature\n• Speed improved",
@@ -13,7 +12,6 @@
     "badge_en": "★ ★ ★",
     "whats_new_en": "WHAT'S NEW",
     "hint_en": "Auto-dismisses when updated",
-
     "title_bn": "নতুন আপডেট",
     "title_emoji_bn": "🔥",
     "changelog_bn": "• স্মার্ট ভার্সন চেকিং যুক্ত হয়েছে\n• অপশনাল আপডেট ফিচার\n• Speed বাড়ানো হয়েছে",
@@ -22,7 +20,6 @@
     "badge_bn": "★ ★ ★",
     "whats_new_bn": "নতুন কী আছে",
     "hint_bn": "আপডেটের পরে বন্ধ হবে",
-
     "grad_start": "#232526",
     "grad_mid": "#414345",
     "grad_end": "#000000",
@@ -40,13 +37,11 @@
     "hint_color": "#6B7280",
     "shadow_color": "#66DA22FF"
   },
-  
-    "com.truecaller": {
+  "com.truecaller": {
     "version": "26.32.6",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-
     "title_en": "Truecaller GOLD UPDATE",
     "title_emoji": "👑",
     "changelog_en": "• Truecaller v26.32.6 Gold Unlocked\n• Gold Caller ID & Premium Badge\n• Advanced Spam & Call Blocking\n• Completely Ad-Free Experience",
@@ -55,7 +50,6 @@
     "badge_en": "★ GOLD UNLOCKED ★",
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Identify unknown callers instantly",
-
     "title_bn": "ট্রুকলার গোল্ড আপডেট",
     "title_emoji_bn": "👑",
     "changelog_bn": "• ট্রুকলার v26.32.6 গোল্ড ফিচারস আনলকড\n• গোল্ড কলার আইডি ও প্রিমিয়াম ব্যাজ\n• অ্যাডভান্সড স্প্যাম ও কল ব্লকিং\n• সম্পূর্ণ বিজ্ঞাপন মুক্ত অভিজ্ঞতা",
@@ -64,7 +58,6 @@
     "badge_bn": "★ গোল্ড আনলকড ★",
     "whats_new_bn": "নতুন কী থাকছে",
     "hint_bn": "অজানা কলার শনাক্ত করুন খুব সহজেই",
-
     "grad_start": "#0F141C",
     "grad_mid": "#1C2430",
     "grad_end": "#000000",
@@ -81,15 +74,50 @@
     "skip_color": "#9CA3AF",
     "hint_color": "#6B7280",
     "shadow_color": "#66FFD700"
-  }
-
-
+  },
+  "com.imo.android.imoim": {
+    "version": "2026.10.1021",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+    "title_en": "IMO VIP UPDATE",
+    "title_emoji": "👑",
+    "changelog_en": "• IMO v2026.10.1021 VIP Unlocked\n• Ad-Free Experience (No Ads)\n• VIP Audio & Video Call Quality Unlocked\n• Cloud Backup & Extended Storage\n• Anti-Delete Messages Enabled",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ VIP UNLOCKED ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Enjoy premium chat experience",
+    "title_bn": "ইমো ভিআইপি আপডেট",
+    "title_emoji_bn": "👑",
+    "changelog_bn": "• ইমো v2026.10.1021 ভিআইপি আনলকড\n• সম্পূর্ণ বিজ্ঞাপন মুক্ত অভিজ্ঞতা\n• ভিআইপি অডিও ও ভিডিও কল কোয়ালিটি\n• ক্লাউড ব্যাকআপ ও এক্সটেন্ডেড স্টোরেজ\n• অ্যান্টি-ডিলিট মেসেজ সুবিধা চালু",
+    "btn_text_bn": "⬇ এখনই আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ VIP আনলকড ★",
+    "whats_new_bn": "নতুন কী থাকছে",
+    "hint_bn": "প্রিমিয়াম চ্যাট অভিজ্ঞতা উপভোগ করুন",
+    "grad_start": "#0A0F1D",
+    "grad_mid": "#152238",
+    "grad_end": "#000000",
+    "btn_grad_start": "#00C6FF",
+    "btn_grad_end": "#0072FF",
+    "title_color": "#FFFFFF",
+    "badge_color": "#00FFFF",
+    "card_color": "#101622",
+    "log_box_color": "#182232",
+    "log_color": "#E6F4FF",
+    "label_color": "#38BDF8",
+    "accent_color": "#0EA5E9",
+    "btn_txt_color": "#FFFFFF",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#6600C6FF"
+  },
   "com.lemon.lvoverseas": {
     "version": "19.0.0",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-
     "title_en": "CapCut ULTRA UPDATE",
     "title_emoji": "⚡",
     "changelog_en": "• CapCut 19.0.0 Ultra Premium Mod\n• Fixed Export & Pro Feature Glitches\n• Enhanced Rendering Speed\n• High-Bitrate Crash Fixed",
@@ -98,7 +126,6 @@
     "badge_en": "★ ULTRA MOD ★",
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Enjoy the ultimate editing experience",
-
     "title_bn": "ক্যাপকাট আল্ট্রা আপডেট",
     "title_emoji_bn": "⚡",
     "changelog_bn": "• ক্যাপকাট 19.0.0 আল্ট্রা প্রিমিয়াম মোড\n• এক্সপোর্ট ও প্রো ফিচার সমস্যা সমাধান\n• রেন্ডারিং স্পিড চরম বৃদ্ধি করা হয়েছে\n• হাই-বিটরেট ক্র্যাশ ফিক্সড",
@@ -107,7 +134,6 @@
     "badge_bn": "★ ULTRA MOD ★",
     "whats_new_bn": "নতুন কী থাকছে",
     "hint_bn": "সেরা এডিটিং অভিজ্ঞতা উপভোগ করুন",
-
     "grad_start": "#0F0C29",
     "grad_mid": "#302B63",
     "grad_end": "#000000",
@@ -125,13 +151,11 @@
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
   },
-
   "com.biomes.vanced": {
     "version": "5.6.80.397",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-
     "title_en": "YouTube Lite UPDATE",
     "title_emoji": "▶️",
     "changelog_en": "• YouTube Lite v5.6.80 Premium Features\n• Lightweight & Super Fast Performance\n• Background Play & MicroG Fixed\n• Completely Ad-Free Experience",
@@ -140,7 +164,6 @@
     "badge_en": "★ LITE MOD ★",
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Enjoy smooth ad-free video streaming",
-
     "title_bn": "ইউটিউব লাইট আপডেট",
     "title_emoji_bn": "▶️",
     "changelog_bn": "• ইউটিউব লাইট v5.6.80 প্রিমিয়াম ফিচারস\n• হালকা সাইজ ও সুপার ফাস্ট পারফর্ম্যান্স\n• ব্যাকগ্রাউন্ড প্লে ও সাইন-ইন সমস্যা সমাধান\n• সম্পূর্ণ বিজ্ঞাপন মুক্ত অভিজ্ঞতা",
@@ -149,7 +172,6 @@
     "badge_bn": "★ লাইট মোড ★",
     "whats_new_bn": "নতুন কী থাকছে",
     "hint_bn": "বিজ্ঞাপন ছাড়া স্মুথ ভিডিও উপভোগ করুন",
-
     "grad_start": "#200000",
     "grad_mid": "#400000",
     "grad_end": "#000000",
@@ -166,14 +188,12 @@
     "skip_color": "#9CA3AF",
     "hint_color": "#6B7280",
     "shadow_color": "#66FF0000"
-  }
-
+  },
   "com.sportzx.live": {
     "version": "2.5",
     "is_force": true,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-
     "title_en": "SportzX UPDATE",
     "title_emoji": "🚀",
     "changelog_en": "• New UI Added\n• Faster Performance\n• Bug Fixes",
@@ -182,7 +202,6 @@
     "badge_en": "★ PREMIUM ★",
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Restart app after update",
-
     "title_bn": "স্পোর্টজএক্স আপডেট",
     "title_emoji_bn": "🚀",
     "changelog_bn": "• নতুন UI যোগ করা হয়েছে\n• গতি বৃদ্ধি করা হয়েছে\n• বাগ ফিক্স",
@@ -191,7 +210,6 @@
     "badge_bn": "★ প্রিমিয়াম ★",
     "whats_new_bn": "নতুন ফিচার",
     "hint_bn": "আপডেটের পর অ্যাপ রিস্টার্ট করুন",
-
     "grad_start": "#0F0C29",
     "grad_mid": "#302B63",
     "grad_end": "#000000",
@@ -209,7 +227,6 @@
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
   },
-
   "com.iudesk.android.photo.editor": {
     "version": "2.0.0",
     "is_force": false,
@@ -248,13 +265,11 @@
     "hint_color": "#6B7280",
     "shadow_color": "#66C471ED"
   },
-
   "com.community.oneroom": {
     "version": "4.0.01.0807.03",
     "is_force": false,
     "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
     "switch_ms": 3000,
-
     "title_en": "MovieBox Pro UPDATE",
     "title_emoji": "🎬",
     "changelog_en": "• MovieBox v4.0.01 VIP Unlocked\n• Fast Streaming & Downloading Fix\n• Subtitle Sync Issue Fixed\n• Completely Ad-Free Experience",
@@ -263,7 +278,6 @@
     "badge_en": "★ VIP UNLOCKED ★",
     "whats_new_en": "LATEST FEATURES",
     "hint_en": "Enjoy unlimited movies & shows",
-
     "title_bn": "মুভি বক্স প্রো আপডেট",
     "title_emoji_bn": "🎬",
     "changelog_bn": "• মুভি বক্স v4.0.01 ভিআইপি ফিচার আনলকড\n• ফাস্ট স্ট্রিম ও ডাউনলোড প্রবলেম ফিক্সড\n• সাবটাইটেল সিঙ্ক সুবিধা যুক্ত\n• সম্পূর্ণ বিজ্ঞাপন মুক্ত অভিজ্ঞতা",
@@ -272,7 +286,6 @@
     "badge_bn": "★ VIP UNLOCKED ★",
     "whats_new_bn": "নতুন কী থাকছে",
     "hint_bn": "আনলিমিটেড মুভি ও শো উপভোগ করুন",
-
     "grad_start": "#1A0500",
     "grad_mid": "#330A00",
     "grad_end": "#000000",
