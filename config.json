@@ -37,6 +37,47 @@
     "hint_color": "#6B7280",
     "shadow_color": "#66DA22FF"
   },
+    "com.bongo.bd": {
+    "version": "6.11.3",
+    "is_force": true,
+    "url": "https://t.me/+v6qRHdkGi0ZhNWI1",
+    "switch_ms": 3000,
+
+    "title_en": "Bongo PREMIUM UPDATE",
+    "title_emoji": "🎬",
+    "changelog_en": "• Bongo v6.11.3 Premium Unlocked\n• Subscription Access Unlocked\n• Paid Content Access Claimed\n• Ad-Free Streaming Experience",
+    "btn_text_en": "⬇ Update Now",
+    "skip_text_en": "✖ Later",
+    "badge_en": "★ PREMIUM UNLOCKED ★",
+    "whats_new_en": "LATEST FEATURES",
+    "hint_en": "Enjoy unlimited movies & shows",
+
+    "title_bn": "বংগো প্রিমিয়াম আপডেট",
+    "title_emoji_bn": "🎬",
+    "changelog_bn": "• বংগো v6.11.3 প্রিমিয়াম আনলকড\n• সাবস্ক্রিপশন ও পেইড কন্টেন্ট অ্যাক্সেস চালু\n• বিজ্ঞাপন মুক্ত ভিডিও স্ট্রিমিং অভিজ্ঞতা\n• সমস্ত প্রিমিয়াম শো উপভোগ করুন",
+    "btn_text_bn": "⬇ এখনই আপডেট করুন",
+    "skip_text_bn": "✖ পরে",
+    "badge_bn": "★ প্রিমিয়াম আনলকড ★",
+    "whats_new_bn": "নতুন কী থাকছে",
+    "hint_bn": "সীমাহীন মুভি ও ওয়েব সিরিজ দেখুন",
+
+    "grad_start": "#1A0A00",
+    "grad_mid": "#331400",
+    "grad_end": "#000000",
+    "btn_grad_start": "#FF8008",
+    "btn_grad_end": "#FFC837",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FFD700",
+    "card_color": "#140A05",
+    "log_box_color": "#24130A",
+    "log_color": "#FFF3E6",
+    "label_color": "#FF9933",
+    "accent_color": "#FF8008",
+    "btn_txt_color": "#000000",
+    "skip_color": "#9CA3AF",
+    "hint_color": "#6B7280",
+    "shadow_color": "#66FF8008"
+  }
   "com.truecaller": {
     "version": "26.32.6",
     "is_force": true,
